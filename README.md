@@ -34,8 +34,6 @@ The **Endpoint File Integrity Monitor (FIM) & Anti-Tamper Console** is a desktop
 
 ## Screenshots
 
-> *Note: Place screenshot captures into the `docs/screenshots/` directory using the filenames below.*
-
 ### Dashboard Overview
 ![Dashboard](docs/screenshots/dashboard.png)
 
