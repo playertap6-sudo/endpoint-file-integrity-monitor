@@ -225,7 +225,7 @@ A harmless simulation script is provided in `demo/fake_ransomware.py` strictly f
 
 ## Authors
 
-- **Ayush Kumar Sharma** (Lead Developer) — SRM Institute of Science and Technology
+- **Ayush Kumar Sharma** — SRM Institute of Science and Technology
 - **Dipayan Kumar** — SRM Institute of Science and Technology
 - **Shivangi Kumari** — SRM Institute of Science and Technology
 
