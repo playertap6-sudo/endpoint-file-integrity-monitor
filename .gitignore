@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+fim_repository.db
+
+# FIM backup directories
+fim_backups/
+backups/
+
+# Test directories and artifacts
+Testing-FIM/
+Testing-FIM*/
+test_data/
+demo_target/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Editor / IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary, scratch, and report files
+*.log
+*.tmp
+scratch/
+reports/
+*.report
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
